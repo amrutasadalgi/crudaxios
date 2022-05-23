@@ -1,0 +1,137 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "amruta",
+      "age": 27,
+      "salary": 12000,
+      "designation": "developer"
+    },
+    {
+      "name": "adbul",
+      "age": 24,
+      "salary": 13000,
+      "designation": "developer",
+      "id": 4
+    },
+    {
+      "name": "razeem",
+      "age": 23,
+      "salary": 20000,
+      "designation": "developer",
+      "id": "6"
+    },
+    {
+      "id": 7,
+      "name": "sid",
+      "age": 22,
+      "salary": 35000,
+      "designation": "developer"
+    },
+    {
+      "id": 9,
+      "name": "anu",
+      "age": 28,
+      "salary": 25000,
+      "designation": "testing"
+    },
+    {
+      "id": 12,
+      "name": "papu",
+      "age": 26,
+      "salary": 25000,
+      "designation": "testing"
+    },
+    {
+      "id": 13,
+      "name": "suni",
+      "age": "27",
+      "salary": 32000,
+      "designation": "developer"
+    },
+    {
+      "name": "abd",
+      "age": 25,
+      "salary": 25000,
+      "designation": "developer",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "name": "renu",
+      "age": 22,
+      "salary": 25000,
+      "designation": "develop"
+    },
+    {
+      "id": 18,
+      "name": "raju",
+      "age": 15,
+      "salary": 2500,
+      "designation": "developer"
+    },
+    {
+      "id": 19,
+      "name": "abhi",
+      "age": 20,
+      "salary": 35000,
+      "designation": "developer"
+    },
+    {
+      "id": 20,
+      "name": "abhay",
+      "age": 56,
+      "salary": 4000,
+      "designation": "developer"
+    },
+    {
+      "id": 30,
+      "name": "ammu",
+      "age": 21,
+      "salary": 60000,
+      "designation": "developer"
+    },
+    {
+      "id": 1,
+      "name": "amruta",
+      "age": 22,
+      "salary": 27000,
+      "designation": "Developer"
+    },
+    {
+      "id": 10,
+      "name": "prati",
+      "age": 25,
+      "salary": 13000,
+      "designation": "engineer"
+    },
+    {
+      "name": "sid",
+      "age": 22,
+      "salary": 30000,
+      "designation": "developer",
+      "id": 32
+    },
+    {
+      "name": "aadi",
+      "age": 27,
+      "salary": 36000,
+      "designation": "developer",
+      "id": 33
+    },
+    {
+      "name": "vikas",
+      "age": 23,
+      "salary": 25000,
+      "designation": "developer",
+      "id": 34
+    },
+    {
+      "name": "sandhya",
+      "age": 22,
+      "salary": 10000,
+      "designation": "developer",
+      "id": 35
+    }
+  ]
+}
